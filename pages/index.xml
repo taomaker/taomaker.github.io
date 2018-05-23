@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Taomaker</title>
+    <link>http://www.taomaker.com/pages/</link>
+    <description>Recent content in Pages on Taomaker</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 23 May 2018 13:52:58 -0400</lastBuildDate>
+    
+	<atom:link href="http://www.taomaker.com/pages/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Recipes</title>
+      <link>http://www.taomaker.com/pages/recipes/</link>
+      <pubDate>Wed, 23 May 2018 13:52:58 -0400</pubDate>
+      
+      <guid>http://www.taomaker.com/pages/recipes/</guid>
+      <description>S 手撕包菜 包菜300克，叶薄为佳；大蒜5粒；花椒10粒；辣椒干3条；醋3汤勺；酱油1汤勺；盐糖适量；五花肉切薄片10片。 包菜洗净，手撕成小片</description>
+    </item>
+    
+  </channel>
+</rss>
