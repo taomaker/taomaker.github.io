@@ -6,10 +6,20 @@
     <description>Recent content in Posts on Taomaker</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 May 2018 14:00:01 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 24 May 2018 12:35:44 -0400</lastBuildDate>
     
 	<atom:link href="http://www.taomaker.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Managing family finance with ledger-cli</title>
+      <link>http://www.taomaker.com/posts/2018/managing-family-finance-with-ledger-cli/</link>
+      <pubDate>Thu, 24 May 2018 12:35:44 -0400</pubDate>
+      
+      <guid>http://www.taomaker.com/posts/2018/managing-family-finance-with-ledger-cli/</guid>
+      <description>ledger-cli is one of the text-based productivity tools I used frequently.
+I used to use Mint.com to collect my income and expenses. It helped me a lot showing the snap shot of our family finance conditions. The main problem we found, is that we have to frequently update the login creditials for connected accounts. Some accounts are never supported. There is no way to track business related expenses. Another minority issue, is that the report format is fixed, but we need a customized report for our monthly finance review.</description>
+    </item>
     
     <item>
       <title>生活中那些快乐的小事</title>
