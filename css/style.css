@@ -17,7 +17,7 @@ body {
 .menu, .article-meta, footer { text-align: center; }
 .title { font-size: 0.8em; }
 footer a { text-decoration: none; }
-hr {
+//hr {
   border-style: dashed;
   color: #ddd;
 }
