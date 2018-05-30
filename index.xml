@@ -6,10 +6,19 @@
     <description>Recent content on Taomaker</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 May 2018 12:35:44 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 29 May 2018 12:25:13 -0400</lastBuildDate>
     
 	<atom:link href="http://www.taomaker.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>谈吃苦之一</title>
+      <link>http://www.taomaker.com/posts/2018/%E8%B0%88%E5%90%83%E8%8B%A6%E4%B9%8B%E4%B8%80/</link>
+      <pubDate>Tue, 29 May 2018 12:25:13 -0400</pubDate>
+      
+      <guid>http://www.taomaker.com/posts/2018/%E8%B0%88%E5%90%83%E8%8B%A6%E4%B9%8B%E4%B8%80/</guid>
+      <description>周末帮朋友搬家。在美国，搬家不光是体力活，做计划、排路线、拆装家具，也耗费不少脑力。大汉淋漓半天一起吃午饭，大家讨论到中美两国年轻人的特点。</description>
+    </item>
     
     <item>
       <title>Managing family finance with ledger-cli</title>
